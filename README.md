@@ -8,5 +8,9 @@ You can run example codes on your (local) computer instead of Hadoop clusters.
 - slf4j-log4j12 (1.7.22)
 
 ## Examples
+### Quiz grading
+**ymatsubara.spark.example.grading.Grader** grades 5 quizzes (max 10pt for each) for 500 students.  
+
 ### Word count
 **ymatsubara.spark.example.wordcount.WordCounter** counts words in English articles (space-delimited text files).  
+
