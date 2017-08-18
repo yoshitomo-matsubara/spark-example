@@ -1,4 +1,4 @@
-package ymatsubara.spark.example;
+package ymatsubara.spark.example.grading;
 
 import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaPairRDD;
