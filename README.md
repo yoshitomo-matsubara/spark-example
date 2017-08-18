@@ -1,6 +1,6 @@
 # Spark Example
-My private Maven project with Apache Spark examples to help you understand how its MapReduce framework works.  
-You can run example codes on your (local) computer instead of Hadoop clusters.  
+My private Maven project with Apache Spark examples to help you understand how its Spark framework works.  
+You can run example codes on your (local) computer instead of clusters.  
 
 ## Requirement
 - Java 1.8+
