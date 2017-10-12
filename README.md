@@ -1,6 +1,7 @@
 # Spark Example
 My private Maven project with Apache Spark examples to help you understand how its Spark framework works.  
 You can run example codes on your (local) computer instead of clusters.  
+Hadoop ver. is also available [here](https://github.com/yoshitomo-matsubara/hadoop-example).
 
 ## Requirement
 - Java 1.8+
